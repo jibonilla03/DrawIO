@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T20:51:32.862Z" agent="5.0 (Windows)" etag="Q-t-e9o3oGPLPc0C_EsT" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T21:04:18.693Z" agent="5.0 (Windows)" etag="j3eO3LM_F8ZLqzZpOnKl" version="13.7.8" type="github">
   <diagram id="8_koJqxYFwasKQS4h1rk" name="Page-1">
     <mxGraphModel dx="2385" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -221,19 +221,19 @@
         <mxCell id="FuaK29XSTBZtPipu1BOP-52" value="C++" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-54" value="Startup Management (intid)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-54" value="Startup Management (intid)" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="640" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-56" value="Service Management (systemd)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-56" value="Service Management (systemd)" style="whiteSpace=wrap;html=1;fillColor=#99FF33;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-61" value="It doents matter which language you pick, key is to get some programming knowlege for automation" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="730" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-67" value="Sockets" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-67" value="Sockets" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-330" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-72" value="Networking Concepts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-72" value="Networking Concepts" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-330" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-73" value="Linux" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -403,13 +403,13 @@
         <mxCell id="FuaK29XSTBZtPipu1BOP-139" value="Datadog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-69" value="POSIX Basics" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-69" value="POSIX Basics" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-330" y="1265" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-63" value="Process&amp;nbsp; Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-63" value="Process&amp;nbsp; Management" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-330" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-65" value="Threads and Concurrency" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-65" value="Threads and Concurrency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-79" value="RHEL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;shadow=1;" parent="1" vertex="1">
@@ -605,25 +605,25 @@
           <mxGeometry x="1240" y="2620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-88" value="Jaeger" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="2720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-90" value="New Relic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-91" value="App Dynamics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="910" y="2780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-92" value="Instana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-93" value="Dynatrace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="910" y="2840" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="2860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-94" value="Solarwinds APM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2840" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="2860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-95" value="Azure Application Insights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="910" y="2900" width="240" height="60" as="geometry" />
+          <mxGeometry x="1070" y="2920" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-98" value="Solarwinds NPM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1050" y="3210" width="120" height="60" as="geometry" />
@@ -779,6 +779,9 @@
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-164" value="Optional" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-165" value="CFEngine" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
