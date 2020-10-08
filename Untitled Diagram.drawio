@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T14:57:17.144Z" agent="5.0 (Windows)" etag="wbCqH0E1Cbrwkl2ap4SB" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T15:47:29.329Z" agent="5.0 (Windows)" etag="0YaqeR5kOLaWlX0nEl2W" version="13.7.8" type="github">
   <diagram id="8_koJqxYFwasKQS4h1rk" name="Page-1">
     <mxGraphModel dx="2007" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -744,7 +744,7 @@
         <mxCell id="v9d-w7baBrSDQlNaZpmP-151" value="Agile Methodology" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-152" value="Before trying to learn a technology&amp;nbsp; or tool, make sure you understand&amp;nbsp; how to build a DevOps culture, and methodologies around DevOps." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-152" value="Before trying to learn a technology&amp;nbsp; or tool, make sure you understand&amp;nbsp; how to build a DevOps culture, and adopt amethodologies around DevOps." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
