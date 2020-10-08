@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T20:26:57.183Z" agent="5.0 (Windows)" etag="BdrvRreXerApLsuQV8Fr" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T20:51:32.862Z" agent="5.0 (Windows)" etag="Q-t-e9o3oGPLPc0C_EsT" version="13.7.8" type="github">
   <diagram id="8_koJqxYFwasKQS4h1rk" name="Page-1">
     <mxGraphModel dx="2385" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -200,7 +200,7 @@
         <mxCell id="FuaK29XSTBZtPipu1BOP-32" value="Keep Learning" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="360" y="3630" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-34" value="Python" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-34" value="Python" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-80" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-37" value="Ruby" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -209,7 +209,7 @@
         <mxCell id="FuaK29XSTBZtPipu1BOP-39" value="Node.js" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-45" value="Go" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-45" value="Go" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="780" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-48" value="Rust" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -646,10 +646,10 @@
         <mxCell id="v9d-w7baBrSDQlNaZpmP-107" value="Management and Monitoring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="660" y="3480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-113" value="PowerShell" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-113" value="PowerShell" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-114" value="Bash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-114" value="Bash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-115" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -679,10 +679,10 @@
         <mxCell id="v9d-w7baBrSDQlNaZpmP-118" value="Learn Software Version Control and Software Collaboration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="360" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-119" value="Distributed vs Centralized" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-119" value="Distributed vs Centralized" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#99FF33;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-123" value="GIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-123" value="GIT" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" vertex="1" parent="1">
           <mxGeometry x="110" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-124" value="SVN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -694,10 +694,10 @@
         <mxCell id="v9d-w7baBrSDQlNaZpmP-126" value="CVS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="110" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-128" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-128" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#99FF33;" vertex="1" parent="1">
           <mxGeometry x="620" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-129" value="Gitlab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-129" value="Gitlab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-130" value="BitBucket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -706,7 +706,7 @@
         <mxCell id="v9d-w7baBrSDQlNaZpmP-131" value="SourceForge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="620" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-134" value="Branching Strategies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-134" value="Branching Strategies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-135" value="Mercurial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
