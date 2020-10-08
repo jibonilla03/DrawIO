@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T22:49:21.113Z" agent="5.0 (Windows)" etag="miiDHthm5W75kLiuaaaV" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T22:57:30.182Z" agent="5.0 (Windows)" etag="JAwmRsP7JxqgDF2NqAFS" version="13.7.8" type="github">
   <diagram id="8_koJqxYFwasKQS4h1rk" name="Page-1">
     <mxGraphModel dx="2503" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -351,19 +351,19 @@
         <mxCell id="FuaK29XSTBZtPipu1BOP-105" value="Caddy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-107" value="Reverse Proxy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-107" value="Reverse Proxy&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;nginx&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-10" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-108" value="Forward Proxy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-108" value="Forward Proxy&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;squid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-10" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-109" value="Caching Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-109" value="Caching Server &amp;nbsp;&amp;nbsp; &lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;redis, nginx, squid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-130" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-110" value="Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-110" value="Load Balancer &lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;HAProxy, nginx&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-130" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-111" value="Firewall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-111" value="Firewall&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;iptables, firewalld&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="-130" y="2200" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-112" value="Gitlab CI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -553,7 +553,7 @@
           <mxGeometry x="800" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-53" value="Syslog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1800" width="240" height="60" as="geometry" />
+          <mxGeometry x="680" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-57" value="Microservices" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" vertex="1" parent="1">
           <mxGeometry x="600" y="2150" width="120" height="60" as="geometry" />
@@ -841,6 +841,12 @@
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-179" value="Security" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="660" y="3720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-180" value="Common Ports" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-181" value="SCP" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
