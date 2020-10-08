@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T21:38:33.925Z" agent="5.0 (Windows)" etag="osl-jCePeNnUsFzXUKbA" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T21:59:43.832Z" agent="5.0 (Windows)" etag="f5Vw5iCUmaVjedp-y2Oc" version="13.7.8" type="github">
   <diagram id="8_koJqxYFwasKQS4h1rk" name="Page-1">
     <mxGraphModel dx="2503" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -272,28 +272,28 @@
         <mxCell id="FuaK29XSTBZtPipu1BOP-87" value="NetBSD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-88" value="Learn Bash Scripting / Powershell" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-88" value="Learn Scripting &amp;nbsp;&amp;nbsp; &lt;span style=&quot;background-color: rgb(255 , 102 , 102)&quot;&gt;Bash / Powershell&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-90" value="Vim/Nano/Emacs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-90" value="&lt;div&gt;Text Editor Tools&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 102 , 102)&quot;&gt;Vim/Nano/Emacs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-91" value="Compiling apps from source" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-92" value="System performance nmon, iostat, sar, vmstat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-92" value="System performance &lt;span style=&quot;background-color: rgb(255 , 102 , 102)&quot;&gt;nmon, iostat, sar, vmstat&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-93" value="Others Strace, Dtrace, systemtap, uname, df, history" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-93" value="&lt;div&gt;Others &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 102 , 102)&quot;&gt;Strace, Dtrace, systemtap, uname, df, history&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1310" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-94" value="&lt;div&gt;Test Manipulation Tools&lt;/div&gt;&lt;div&gt;awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-94" value="&lt;div&gt;Test Manipulation Tools&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 102 , 102)&quot;&gt;awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1160" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-96" value="&lt;div&gt;Process Monitoring&lt;/div&gt;&lt;div&gt;ps, top, htop, atop, Lsof&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-96" value="&lt;div&gt;Process Monitoring&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 102 , 102)&quot;&gt;ps, top, htop, atop, Lsof&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1400" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-97" value="&lt;div&gt;Network&lt;/div&gt;&lt;div&gt;nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-97" value="&lt;div&gt;Network&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 102 , 102)&quot;&gt;nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1240" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#0000FF;" parent="1" source="FuaK29XSTBZtPipu1BOP-99" target="FuaK29XSTBZtPipu1BOP-101" edge="1">
@@ -424,13 +424,16 @@
         <mxCell id="FuaK29XSTBZtPipu1BOP-59" value="Get some administration&amp;nbsp; knowledge in some OS. Go with any linux distro. Pick Ubuntu if you have a little no experience with Linux" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="1450" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-17" value="Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-167" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;fillColor=#0000FF;" edge="1" parent="1" source="v9d-w7baBrSDQlNaZpmP-17" target="v9d-w7baBrSDQlNaZpmP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-17" value="terminal multiplexer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" vertex="1" parent="1">
           <mxGeometry x="890" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-18" value="tmux" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1040" width="120" height="60" as="geometry" />
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-18" value="tmux" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9d-w7baBrSDQlNaZpmP-19" value="terminal multiplexer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-19" value="screen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-23" value="Travis CI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
