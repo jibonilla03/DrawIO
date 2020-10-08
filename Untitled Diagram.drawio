@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T15:47:29.329Z" agent="5.0 (Windows)" etag="0YaqeR5kOLaWlX0nEl2W" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T16:15:57.722Z" agent="5.0 (Windows)" etag="mnpwYE8-bybOLiG0IwFz" version="13.7.8" type="github">
   <diagram id="8_koJqxYFwasKQS4h1rk" name="Page-1">
     <mxGraphModel dx="2007" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-6" value="Learn about managing servers" style="whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#0000FF;" parent="1" source="FuaK29XSTBZtPipu1BOP-8" target="FuaK29XSTBZtPipu1BOP-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +94,7 @@
             <mxPoint x="-60" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuaK29XSTBZtPipu1BOP-12" value="Network, Security and Protocols" style="whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
+        <mxCell id="FuaK29XSTBZtPipu1BOP-12" value="Network, Security&amp;nbsp; and Protocols" style="whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="360" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;strokeColor=#0000FF;" parent="1" source="FuaK29XSTBZtPipu1BOP-14" target="FuaK29XSTBZtPipu1BOP-16" edge="1">
@@ -150,7 +150,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-20" value="Learn how to monitor software and infrastructure" style="whiteSpace=wrap;html=1;fillColor=#FFFF33;" parent="1" vertex="1">
-          <mxGeometry x="360" y="2770" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;fillColor=#0000FF;" edge="1" parent="1" source="FuaK29XSTBZtPipu1BOP-22" target="FuaK29XSTBZtPipu1BOP-133">
           <mxGeometry relative="1" as="geometry" />
@@ -422,7 +422,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuaK29XSTBZtPipu1BOP-59" value="Get some administration&amp;nbsp; knowledge in some OS. Go with any linux distro. Pick Ubuntu if you have a little no experience with Linux" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1440" width="170" height="50" as="geometry" />
+          <mxGeometry x="350" y="1450" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-17" value="Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="1040" width="120" height="60" as="geometry" />
@@ -443,10 +443,10 @@
           <mxGeometry x="10" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-27" value="OSI Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1820" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-28" value="TCP/IP Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1880" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-29" value="DNS" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="680" y="1500" width="120" height="60" as="geometry" />
@@ -695,19 +695,19 @@
           <mxGeometry x="110" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-128" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-129" value="Gitlab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="620" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-130" value="BitBucket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="620" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-131" value="SourceForge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="620" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-134" value="Branching Strategies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-135" value="Mercurial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1000" width="240" height="60" as="geometry" />
@@ -746,6 +746,21 @@
         </mxCell>
         <mxCell id="v9d-w7baBrSDQlNaZpmP-152" value="Before trying to learn a technology&amp;nbsp; or tool, make sure you understand&amp;nbsp; how to build a DevOps culture, and adopt amethodologies around DevOps." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-153" value="Have solid, hands-on foundation for understanding the version control systems" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1015" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-154" value="Understand how OS&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt; performs all the basic tasks like file management, memory&amp;nbsp; management, process management, handling input and output, and&amp;nbsp; controlling peripheral devices.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1250" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-155" value="Make sure you understand client-server model, how services such as e-mail and web pages connect using network, how devices on a network can be found. the hardware building blocks of any network. And how to organize and control the flow of traffic on a network." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1740" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-156" value="Infrastructure as code, what it is, and why it&#39;s become the new normal." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="2330" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v9d-w7baBrSDQlNaZpmP-158" value="&lt;div&gt;&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;b&gt;CI&lt;/b&gt;/&lt;b&gt;CD&lt;/b&gt; is a method to frequently deliver apps to customers by introducing automation into the stages of app development.&amp;nbsp; Understand the main concepts attributed to &lt;b&gt;CI&lt;/b&gt;/&lt;b&gt;CD&lt;/b&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;continuous integration, continuous delivery, and continuous deployment.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="2620" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
